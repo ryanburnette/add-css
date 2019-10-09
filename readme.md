@@ -1,11 +1,17 @@
-# #addCSS()
+# [add-css](https://github.com/ryanburnette/add-css)
 
-Add CSS to the DOM.
+Add CSS to the page.
 
 ## Usage
 
-```javascript
-const addCSS = require('add-css')
+```js
+var addCSS = require('@ryanburnette/add-css');
+```
 
-addCSS('.foo { display: none; }')
+```html
+<script src="https://unpkg.com/@ryanburnette/add-css/index.js">
+```
+
+```js
+addCSS('.hidden { display: none; }');
 ```

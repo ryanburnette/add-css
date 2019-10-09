@@ -1,19 +1,12 @@
 {
-  "name": "add-css",
-  "version": "1.0.0",
-  "description": "Add CSS to the DOM.",
+  "name": "@ryanburnette/add-css",
+  "version": "1.0.1",
+  "description": "Add CSS to the page.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryanburnette/add-css.git"
+    "url": "https://github.com/ryanburnette/add-css.git"
   },
   "author": "Ryan Burnette",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ryanburnette/add-css/issues"
-  },
-  "homepage": "https://github.com/ryanburnette/add-css"
+  "license": "ISC"
 }
