@@ -1,6 +1,6 @@
 {
   "name": "@ryanburnette/add-css",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Add CSS to the page.",
   "main": "index.js",
   "repository": {
